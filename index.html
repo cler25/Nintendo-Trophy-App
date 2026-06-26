@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#e60012">
+  <title>Nintendo Trophy Tracker</title>
+
+  <link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="images/icon-192.png">
+</head>
+<body>
+
+<header class="hero">
+
+  <div class="logo">
+    🎮
+  </div>
+
+  <h1 class="app-title">
+  🏆 Nintendo Trophy
+</h1>
+
+  <p class="subtitle">
+  Colleziona trofei • Completa giochi • Scala il rank
+</p>
+
+</header>
+
+<section class="profile-card">
+
+  <div class="profile-header">
+
+    <div class="profile-info">
+
+    
+<div class="name-avatar-row">
+
+  <div id="playerAvatar" class="player-avatar">
+    🍄
+  </div>
+
+  <div id="playerRank">
+    Recluta Nintendo
+  </div>
+
+</div>
+      <div class="level-row">
+  Livello <span id="playerLevel">1</span>
+</div>
+
+<button id="changeAvatarBtn">
+👤 Cambia Avatar
+</button>
+
+</div>
+
+</div>
+
+<div class="xp-container">
+
+    <div class="xp-bar">
+      <div id="xpFill"></div>
+    </div>
+
+    <div id="xpText">
+      0 / 100 XP
+    </div>
+
+  </div>
+
+  <div class="profile-stats">
+
+    <div class="stat-card">
+      <div id="totalTrophies">0</div>
+      <span>Trofei</span>
+    </div>
+
+    <div class="stat-card">
+      <div id="profilePlatinum">0</div>
+      <span>Platini</span>
+    </div>
+
+    <div class="stat-card">
+      <div id="completedGames">0</div>
+      <span>Finiti</span>
+    </div>
+
+    <div class="stat-card">
+      <div id="completionRate">0%</div>
+      <span>Media</span>
+    </div>
+
+  </div>
+
+</section>
+
+<section class="collection-progress">
+
+  <h2>🏆 Collezione Trofei</h2>
+
+  <div class="global-bar">
+    <div
+      id="globalProgressFill"
+      class="global-progress-fill">
+    </div>
+  </div>
+
+  <div
+    id="globalProgressText"
+    class="global-progress-text">
+    0 / 0
+  </div>
+
+</section>
+
+<section class="badges-section">
+
+<button id="showBadgesBtn">
+  🏅 Collezione Badge
+</button>
+
+  <h2>🏅 Badge</h2>
+
+  <div
+    id="badgesContainer"
+    class="badges-container">
+  </div>
+
+</section>
+
+
+<section class="museum-section">
+
+<h2>🏛️ Museo Nintendo</h2>
+
+  <button id="showMuseumBtn">
+    Visita Museo
+  </button>
+
+</section>
+
+<section class="stats">
+
+  <div class="stat-card">
+    <span id="totalTrophies">0</span>
+    <p>🏆 Totali</p>
+  </div>
+
+  <div class="stat-card">
+    <span id="bronzeCount">0</span>
+    <p>🥉 Bronzo</p>
+  </div>
+
+  <div class="stat-card">
+    <span id="silverCount">0</span>
+    <p>🥈 Argento</p>
+  </div>
+
+  <div class="stat-card">
+    <span id="goldCount">0</span>
+    <p>🥇 Oro</p>
+  </div>
+
+  <div class="stat-card">
+    <span id="platinumCount">0</span>
+    <p>💎 Platino</p>
+  </div>
+
+</section>
+
+<section class="search-section">
+
+  <input
+    type="text"
+    id="searchInput"
+    placeholder="Cerca un gioco..."
+  >
+
+</section>
+<button id="exportBtn">
+  💾 Esporta Salvataggio
+</button>
+
+<button id="importBtn">
+  📂 Importa Salvataggio
+</button>
+
+<input
+  type="file"
+  id="importFile"
+  accept=".json"
+  style="display:none">
+<div class="game-filters">
+
+  <button data-filter="all">
+    Tutti
+  </button>
+
+  <button data-filter="todo">
+    Non iniziati
+  </button>
+
+  <button data-filter="playing">
+    In corso
+  </button>
+
+  <button data-filter="completed">
+    Completati
+  </button>
+
+  <button data-filter="platinum">
+    Platino
+  </button>
+
+</div>
+
+<section id="gamesGrid" class="games-grid">
+
+</section>
+
+<div
+  id="badgesModal"
+  class="modal hidden">
+
+  <div class="modal-content">
+
+    <button
+      id="closeBadgesModal">
+      ✕
+    </button>
+
+    <h2>
+      🏅 Collezione Badge
+    </h2>
+
+    <div
+      id="allBadgesContainer">
+    </div>
+
+  </div>
+  </div>
+
+<div
+  id="museumModal"
+  class="modal hidden">
+
+  <div class="modal-content">
+
+    <button
+      id="closeMuseumModal">
+      ✕
+    </button>
+
+    <h2>
+      🏛️ Museo Nintendo
+    </h2>
+
+    <div
+      id="museumProgress">
+    </div>
+
+    <div
+      id="museumContainer">
+    </div>
+
+  </div>
+
+</div>
+
+<div id="gameModal" class="modal hidden">
+
+  <div class="modal-content">
+
+    <button id="closeModal">
+      ✕
+    </button>
+
+    <h2 id="gameTitle"></h2>
+
+    <div id="trophyContainer"></div>
+
+  </div>
+
+</div>
+
+<div id="trophyPopup" class="trophy-popup hidden">
+  <div class="popup-icon">🏆</div>
+  <div class="popup-title">TROFEO OTTENUTO!</div>
+  <div id="popupTrophyName"></div>
+</div>
+
+<script src="games.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
