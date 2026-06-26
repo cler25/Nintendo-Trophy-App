@@ -3897,7 +3897,6 @@ trophies: [
 { title:"Campione di Luigi", description:"Completa ogni livello di New Super Luigi U.", rarity:"gold" },
 { title:"Re delle Sfide", description:"Ottieni il massimo in tutte le Sfide.", rarity:"gold" },
 { title:"Super Mario Master", description:"Completa il gioco al 100%.", rarity:"gold" },
-,
 
 { title:"Re del Regno dei Funghi", description:"Ottieni tutti gli altri trofei.", rarity:"platinum" }
 
