@@ -3635,4 +3635,272 @@ trophies: [
 ]
 }
 ,
+{
+
+  id: "bayonetta2",
+  title: "Bayonetta 2",
+  cover: "assets/covers/bayonetta2.jpg",
+  trophies: [
+
+{ title:"Benvenuta a Noatun", description:"Completa il Prologo.", rarity:"bronze" },
+{ title:"Un nuovo contratto", description:"Completa il Capitolo 1.", rarity:"bronze" },
+{ title:"Sulle tracce di Loki", description:"Completa il Capitolo 2.", rarity:"bronze" },
+{ title:"Oltre il ponte", description:"Completa il Capitolo 3.", rarity:"bronze" },
+{ title:"La foresta proibita", description:"Completa il Capitolo 4.", rarity:"bronze" },
+{ title:"Vento tra le nuvole", description:"Completa il Capitolo 5.", rarity:"bronze" },
+{ title:"Il lago sacro", description:"Completa il Capitolo 6.", rarity:"bronze" },
+{ title:"La città perduta", description:"Completa il Capitolo 7.", rarity:"bronze" },
+{ title:"Verso Fimbulventr", description:"Completa il Capitolo 8.", rarity:"bronze" },
+{ title:"Nel cuore del caos", description:"Completa il Capitolo 9.", rarity:"bronze" },
+
+{ title:"Prima reliquia", description:"Ottieni il tuo primo accessorio.", rarity:"bronze" },
+{ title:"Arsenale Umbra", description:"Ottieni una nuova arma.", rarity:"bronze" },
+{ title:"Collezionista di LP", description:"Completa un LP infernale.", rarity:"bronze" },
+{ title:"Primo oro", description:"Ottieni una Medaglia d'Oro in un capitolo.", rarity:"bronze" },
+{ title:"Pure Platinum", description:"Ottieni una Medaglia Pure Platinum.", rarity:"bronze" },
+{ title:"Versetto segreto", description:"Completa il tuo primo Versetto Segreto.", rarity:"bronze" },
+{ title:"Muspelheim", description:"Completa una sfida Muspelheim.", rarity:"bronze" },
+{ title:"Ricordo ritrovato", description:"Trova il primo ricordo di Antonio.", rarity:"bronze" },
+{ title:"Corvo osservatore", description:"Trova il primo Corvo.", rarity:"bronze" },
+{ title:"Frammento ritrovato", description:"Ottieni un frammento di salute o magia.", rarity:"bronze" },
+
+{ title:"Cacciatore di segreti", description:"Completa tutti i Versetti Segreti.", rarity:"silver" },
+{ title:"Signore di Muspelheim", description:"Completa tutte le sfide Muspelheim.", rarity:"silver" },
+{ title:"Biblioteca completa", description:"Completa tutti gli LP infernali.", rarity:"silver" },
+{ title:"Maestra delle armi", description:"Ottieni tutte le armi.", rarity:"silver" },
+{ title:"Accessori Umbra", description:"Ottieni tutti gli accessori.", rarity:"silver" },
+{ title:"Occhi del corvo", description:"Trova tutti i Corvi.", rarity:"silver" },
+{ title:"Memorie di Antonio", description:"Trova tutti i ricordi di Antonio.", rarity:"silver" },
+{ title:"Campionessa Umbra", description:"Ottieni Pure Platinum in un intero capitolo.", rarity:"silver" },
+{ title:"Fine del viaggio", description:"Completa il gioco a difficoltà Normale.", rarity:"silver" },
+{ title:"Sfida accettata", description:"Completa il gioco a difficoltà Difficile.", rarity:"silver" },
+
+{ title:"Destino compiuto", description:"Completa tutti i capitoli.", rarity:"gold" },
+{ title:"Collezione perfetta", description:"Ottieni tutti i collezionabili.", rarity:"gold" },
+{ title:"Guardaroba Umbra", description:"Sblocca tutti i costumi.", rarity:"gold" },
+{ title:"Alleata leggendaria", description:"Sblocca tutti i personaggi giocabili.", rarity:"gold" },
+{ title:"Pure Platinum totale", description:"Ottieni Pure Platinum in tutti i capitoli.", rarity:"gold" },
+{ title:"Climax infinito", description:"Completa il gioco a difficoltà Infinite Climax.", rarity:"gold" },
+{ title:"Potere assoluto", description:"Ottieni tutte le armi e gli accessori.", rarity:"gold" },
+{ title:"100% Umbra", description:"Completa ogni attività del gioco.", rarity:"gold" },
+{ title:"Regina di Noatun", description:"Dimostra la tua maestria assoluta.", rarity:"gold" },
+
+{ title:"La Strega Definitiva", description:"Sblocca tutti i trofei.", rarity:"platinum" 
+}
+
+
+]
+}
+,
+{
+
+  id: "bayonetta3",
+  title: "Bayonetta 3",
+  cover: "assets/covers/bayonetta3.jpg",
+trophies: [
+
+{ title:"Caos a Tokyo", description:"Completa il Prologo.", rarity:"bronze" },
+{ title:"La strega ritorna", description:"Completa il Capitolo 1.", rarity:"bronze" },
+{ title:"L'incontro con Viola", description:"Completa il Capitolo 2.", rarity:"bronze" },
+{ title:"Tra le dimensioni", description:"Completa il Capitolo 3.", rarity:"bronze" },
+{ title:"La Francia in rovina", description:"Completa il Capitolo 4.", rarity:"bronze" },
+{ title:"Verso il deserto", description:"Completa il Capitolo 5.", rarity:"bronze" },
+{ title:"Nebbia di Cina", description:"Completa il Capitolo 6.", rarity:"bronze" },
+{ title:"Luna di Ginnungagap", description:"Completa il Capitolo 7.", rarity:"bronze" },
+{ title:"Oltre il Multiverso", description:"Completa il Capitolo 8.", rarity:"bronze" },
+{ title:"Destino di Singularity", description:"Completa il Capitolo 9.", rarity:"bronze" },
+
+{ title:"Primo Demone", description:"Ottieni il tuo primo Demone Infernale.", rarity:"bronze" },
+{ title:"Arte della Schiavitù", description:"Usa Demon Slave per la prima volta.", rarity:"bronze" },
+{ title:"Mascherata", description:"Esegui la prima Demon Masquerade.", rarity:"bronze" },
+{ title:"Collezionista di Carte", description:"Trova la prima Carta del Portale.", rarity:"bronze" },
+{ title:"Eco del passato", description:"Trova il primo Echo of Memory.", rarity:"bronze" },
+{ title:"Remnant completato", description:"Completa il primo Phenomenal Remnant.", rarity:"bronze" },
+{ title:"Primo Pure Platinum", description:"Ottieni una Medaglia Pure Platinum.", rarity:"bronze" },
+{ title:"Nuovo arsenale", description:"Ottieni una nuova arma.", rarity:"bronze" },
+{ title:"Eleganza Umbra", description:"Sblocca un nuovo costume.", rarity:"bronze" },
+{ title:"Strega in allenamento", description:"Completa una Missione Extra.", rarity:"bronze" },
+
+{ title:"Custode dei Remnants", description:"Completa tutti i Phenomenal Remnants.", rarity:"silver" },
+{ title:"Memorie recuperate", description:"Trova tutti gli Echoes of Memory.", rarity:"silver" },
+{ title:"Portali completati", description:"Completa tutti i Portali Infernali.", rarity:"silver" },
+{ title:"Collezione completa", description:"Ottieni tutte le Carte del Portale.", rarity:"silver" },
+{ title:"Famiglio perfetto", description:"Sblocca Cheshire completamente.", rarity:"silver" },
+{ title:"Arsenale Umbra", description:"Ottieni tutte le armi.", rarity:"silver" },
+{ title:"Evocatrice Suprema", description:"Ottieni tutti i Demoni Infernali.", rarity:"silver" },
+{ title:"Cronache del Tempo", description:"Completa tutti i Records of Time.", rarity:"silver" },
+{ title:"Viaggio concluso", description:"Completa il gioco a difficoltà Normale.", rarity:"silver" },
+{ title:"La sfida continua", description:"Completa il gioco a difficoltà Esperto.", rarity:"silver" },
+
+{ title:"Multiverso salvato", description:"Completa tutti i capitoli.", rarity:"gold" },
+{ title:"Potere assoluto", description:"Ottieni tutte le armi, Demoni e costumi.", rarity:"gold" },
+{ title:"Pure Platinum Totale", description:"Ottieni Pure Platinum in tutti i capitoli.", rarity:"gold" },
+{ title:"Strega Leggendaria", description:"Completa Infinite Climax.", rarity:"gold" },
+{ title:"100% Bayonetta 3", description:"Completa ogni attività disponibile.", rarity:"gold" },
+{ title:"Viola è pronta", description:"Completa tutte le missioni dedicate a Viola.", rarity:"gold" },
+{ title:"Regina del Multiverso", description:"Sblocca tutti i collezionabili.", rarity:"gold" },
+{ title:"L'ultima Umbra", description:"Dimostra di aver padroneggiato ogni tecnica.", rarity:"gold" },
+{ title:"Fine del Caos", description:"Sconfiggi Singularity ottenendo il massimo riconoscimento.", rarity:"gold" },
+
+{ title:"La Strega del Multiverso", description:"Ottieni tutti gli altri trofei.", rarity:"platinum" }
+
+]
+},
+{
+
+  id: "donkey_kong_country_returns_hd",
+  title: "Donkey Kong Country Returns HD",
+  cover: "assets/covers/dkcountry.jpg",
+  trophies: [
+
+{ title:"Ritorno nella giungla", description:"Completa il Livello 1-1.", rarity:"bronze" },
+{ title:"Scimmie in azione", description:"Completa il Mondo 1.", rarity:"bronze" },
+{ title:"Miniere esplosive", description:"Completa il Mondo 2.", rarity:"bronze" },
+{ title:"Tra le rovine", description:"Completa il Mondo 3.", rarity:"bronze" },
+{ title:"Bosco misterioso", description:"Completa il Mondo 4.", rarity:"bronze" },
+{ title:"Tra le scogliere", description:"Completa il Mondo 5.", rarity:"bronze" },
+{ title:"Cuore del vulcano", description:"Completa il Mondo 6.", rarity:"bronze" },
+{ title:"Fabbrica Tik Tak", description:"Completa il Mondo 7.", rarity:"bronze" },
+{ title:"Verso il Tempio", description:"Completa il Mondo 8.", rarity:"bronze" },
+{ title:"Il Re è sconfitto", description:"Completa la storia principale.", rarity:"bronze" },
+
+{ title:"K", description:"Ottieni la prima lettera KONG.", rarity:"bronze" },
+{ title:"KONG!", description:"Completa il tuo primo livello raccogliendo KONG.", rarity:"bronze" },
+{ title:"Primo Puzzle", description:"Ottieni il primo pezzo di puzzle.", rarity:"bronze" },
+{ title:"Collezionista", description:"Completa un livello con tutti i pezzi di puzzle.", rarity:"bronze" },
+{ title:"Compagno fidato", description:"Gioca con Diddy Kong.", rarity:"bronze" },
+{ title:"Primo acquisto", description:"Compra un oggetto dal Negozio di Cranky.", rarity:"bronze" },
+{ title:"Esperto di barili", description:"Completa un livello usando solo i barili.", rarity:"bronze" },
+{ title:"Vita da Kong", description:"Ottieni 99 vite.", rarity:"bronze" },
+{ title:"Primo tempo record", description:"Completa un Time Attack.", rarity:"bronze" },
+{ title:"Esploratore", description:"Trova un livello segreto.", rarity:"bronze" },
+
+{ title:"Le lettere del Kong", description:"Raccogli tutte le lettere KONG di un mondo.", rarity:"silver" },
+{ title:"Puzzle Mania", description:"Raccogli tutti i pezzi puzzle di un mondo.", rarity:"silver" },
+{ title:"Re del Tempo", description:"Ottieni una medaglia nel Time Attack.", rarity:"silver" },
+{ title:"Tutti i mondi", description:"Completa tutti i mondi.", rarity:"silver" },
+{ title:"Collezione completa", description:"Acquista tutti gli oggetti del negozio.", rarity:"silver" },
+{ title:"Tempio sbloccato", description:"Sblocca il Tempio Dorato.", rarity:"silver" },
+{ title:"Specchio della giungla", description:"Sblocca la Mirror Mode.", rarity:"silver" },
+{ title:"Sfida accettata", description:"Completa un mondo in Mirror Mode.", rarity:"silver" },
+{ title:"Tesoro nascosto", description:"Trova tutti i livelli segreti.", rarity:"silver" },
+{ title:"Avventura completa", description:"Completa il gioco al 100%.", rarity:"silver" },
+
+{ title:"Tutte le lettere", description:"Ottieni tutte le lettere KONG del gioco.", rarity:"gold" },
+{ title:"Tutti i puzzle", description:"Ottieni tutti i pezzi puzzle del gioco.", rarity:"gold" },
+{ title:"Tempio conquistato", description:"Completa il Tempio Dorato.", rarity:"gold" },
+{ title:"Mirror Master", description:"Completa tutta la Mirror Mode.", rarity:"gold" },
+{ title:"Re della giungla", description:"Completa il gioco al 200%.", rarity:"gold" },
+{ title:"Velocista", description:"Ottieni la medaglia migliore in tutti i Time Attack.", rarity:"gold" },
+{ title:"Nessun segreto", description:"Scopri ogni area nascosta.", rarity:"gold" },
+{ title:"Donkey Kong Legend", description:"Completa ogni sfida disponibile.", rarity:"gold" },
+{ title:"Banane per sempre", description:"Dimostra di aver padroneggiato ogni aspetto del gioco.", rarity:"gold" },
+
+{ title:"Il Re della Giungla", description:"Ottieni tutti gli altri trofei.", rarity:"platinum" }
+
+]
+},
+{
+
+  id: "super_mario_bros_wonder",
+  title: "Super Mario Bros. Wonder",
+  cover: "assets/covers/wonder.jpg",
+  trophies: [
+
+{ title:"Benvenuti nel Regno Fiore", description:"Completa il primo livello.", rarity:"bronze" },
+{ title:"Primo Fiore Meraviglia", description:"Ottieni il tuo primo Fiore Meraviglia.", rarity:"bronze" },
+{ title:"Effetto Wonder", description:"Attiva un Effetto Wonder.", rarity:"bronze" },
+{ title:"Verso nuove avventure", description:"Completa il Mondo 1.", rarity:"bronze" },
+{ title:"Tra le nuvole", description:"Completa il Mondo 2.", rarity:"bronze" },
+{ title:"Acque cristalline", description:"Completa il Mondo 3.", rarity:"bronze" },
+{ title:"Deserto fiorito", description:"Completa il Mondo 4.", rarity:"bronze" },
+{ title:"Montagne maestose", description:"Completa il Mondo 5.", rarity:"bronze" },
+{ title:"Foresta misteriosa", description:"Completa il Mondo 6.", rarity:"bronze" },
+{ title:"Verso Bowser", description:"Raggiungi il Castello Finale.", rarity:"bronze" },
+
+{ title:"Prima Medaglia", description:"Ottieni la tua prima Medaglia.", rarity:"bronze" },
+{ title:"Distintivo equipaggiato", description:"Equipaggia il tuo primo Distintivo.", rarity:"bronze" },
+{ title:"Nuovo personaggio", description:"Gioca con un personaggio diverso da Mario.", rarity:"bronze" },
+{ title:"Primo seme", description:"Ottieni il primo Seme Meraviglia.", rarity:"bronze" },
+{ title:"Collezionista", description:"Ottieni 10 Semi Meraviglia.", rarity:"bronze" },
+{ title:"Primo standee", description:"Posiziona il tuo primo Standee.", rarity:"bronze" },
+{ title:"Gioco di squadra", description:"Completa un livello in cooperativa.", rarity:"bronze" },
+{ title:"Salto perfetto", description:"Completa un livello senza subire danni.", rarity:"bronze" },
+{ title:"Primo 10-Fiore", description:"Ottieni una Moneta Fiore da 10.", rarity:"bronze" },
+{ title:"Primo livello segreto", description:"Scopri un'uscita segreta.", rarity:"bronze" },
+
+{ title:"Maestro dei Distintivi", description:"Ottieni tutti i Distintivi.", rarity:"silver" },
+{ title:"Cacciatore di Semi", description:"Ottieni tutti i Semi Meraviglia di un mondo.", rarity:"silver" },
+{ title:"Collezione floreale", description:"Ottieni tutte le Monete Fiore di un mondo.", rarity:"silver" },
+{ title:"Esploratore", description:"Scopri tutte le uscite segrete.", rarity:"silver" },
+{ title:"Compagni di viaggio", description:"Gioca con tutti i personaggi.", rarity:"silver" },
+{ title:"Aiuto reciproco", description:"Salva un altro giocatore online.", rarity:"silver" },
+{ title:"Regno completato", description:"Completa tutti i mondi.", rarity:"silver" },
+{ title:"Esperto Wonder", description:"Completa tutti gli Effetti Wonder.", rarity:"silver" },
+{ title:"Bowser sconfitto", description:"Completa la storia principale.", rarity:"silver" },
+{ title:"Sfida accettata", description:"Completa tutti i livelli speciali.", rarity:"silver" },
+
+{ title:"Tutti i Semi", description:"Ottieni tutti i Semi Meraviglia del gioco.", rarity:"gold" },
+{ title:"Tutte le Monete", description:"Ottieni tutte le Monete Fiore.", rarity:"gold" },
+{ title:"100% Wonder", description:"Completa ogni livello.", rarity:"gold" },
+{ title:"Campione del Regno Fiore", description:"Completa tutte le sfide.", rarity:"gold" },
+{ title:"Nessun segreto", description:"Scopri ogni percorso nascosto.", rarity:"gold" },
+{ title:"Distintivo Supremo", description:"Completa il gioco usando tutti i Distintivi.", rarity:"gold" },
+{ title:"Re della Meraviglia", description:"Completa il gioco al 100%.", rarity:"gold" },
+
+{ title:"Il Fiore della Meraviglia", description:"Ottieni tutti gli altri trofei.", rarity:"platinum" }
+]
+},
+{
+
+  id: "new_super_mario_bros_u_deluxe",
+  title: "New Super Mario Bros. U Deluxe",
+  cover: "assets/covers/mariobrosu.jpg",
+  trophies: [
+
+{ title:"Benvenuto nel Regno dei Funghi", description:"Completa il primo livello.", rarity:"bronze" },
+{ title:"Verso il Castello", description:"Completa il Mondo 1.", rarity:"bronze" },
+{ title:"Tra le Dune", description:"Completa il Mondo 2.", rarity:"bronze" },
+{ title:"Foresta Incantata", description:"Completa il Mondo 3.", rarity:"bronze" },
+{ title:"Montagne Gelate", description:"Completa il Mondo 4.", rarity:"bronze" },
+{ title:"Nuvole nel cielo", description:"Completa il Mondo 5.", rarity:"bronze" },
+{ title:"Acque profonde", description:"Completa il Mondo 6.", rarity:"bronze" },
+{ title:"Verso Bowser", description:"Raggiungi il Castello Finale.", rarity:"bronze" },
+{ title:"Il Regno è salvo", description:"Completa la storia principale.", rarity:"bronze" },
+{ title:"Primo Castello", description:"Sconfiggi il tuo primo Koopalings.", rarity:"bronze" },
+
+{ title:"Prima Moneta Stella", description:"Ottieni la tua prima Moneta Stella.", rarity:"bronze" },
+{ title:"Tre su Tre", description:"Ottieni tutte le Monete Stella di un livello.", rarity:"bronze" },
+{ title:"Passaggio Segreto", description:"Trova la tua prima uscita segreta.", rarity:"bronze" },
+{ title:"Super Ghianda", description:"Ottieni la Super Ghianda.", rarity:"bronze" },
+{ title:"Baby Yoshi", description:"Trova il tuo primo Baby Yoshi.", rarity:"bronze" },
+{ title:"Compagno di viaggio", description:"Gioca in cooperativa.", rarity:"bronze" },
+{ title:"Primo Toad", description:"Completa una missione di Toad.", rarity:"bronze" },
+{ title:"Aiuto volante", description:"Usa Palloncino Baby Yoshi.", rarity:"bronze" },
+{ title:"Nuovo personaggio", description:"Completa un livello con un personaggio diverso da Mario.", rarity:"bronze" },
+{ title:"Primo Record", description:"Ottieni una medaglia in Sfida.", rarity:"bronze" },
+
+{ title:"Collezionista di Stelle", description:"Ottieni tutte le Monete Stella di un mondo.", rarity:"silver" },
+{ title:"Esploratore", description:"Trova tutte le uscite segrete di un mondo.", rarity:"silver" },
+{ title:"Maestro dei Baby Yoshi", description:"Usa tutti i Baby Yoshi.", rarity:"silver" },
+{ title:"Koopalings KO", description:"Sconfiggi tutti i Koopalings.", rarity:"silver" },
+{ title:"Missione Compiuta", description:"Completa tutte le missioni di Toad.", rarity:"silver" },
+{ title:"Sfida Superata", description:"Completa tutte le Sfide.", rarity:"silver" },
+{ title:"Luigi è pronto", description:"Completa New Super Luigi U.", rarity:"silver" },
+{ title:"Regno Completo", description:"Completa tutti i mondi.", rarity:"silver" },
+{ title:"Bowser sconfitto", description:"Sconfiggi Bowser senza perdere vite.", rarity:"silver" },
+{ title:"Esperto del Regno", description:"Completa tutti i livelli speciali.", rarity:"silver" },
+
+{ title:"Tutte le Monete Stella", description:"Ottieni tutte le Monete Stella del gioco.", rarity:"gold" },
+{ title:"Tutti i Percorsi", description:"Scopri tutte le uscite segrete.", rarity:"gold" },
+{ title:"100% Regno dei Funghi", description:"Completa ogni livello.", rarity:"gold" },
+{ title:"Campione di Luigi", description:"Completa ogni livello di New Super Luigi U.", rarity:"gold" },
+{ title:"Re delle Sfide", description:"Ottieni il massimo in tutte le Sfide.", rarity:"gold" },
+{ title:"Super Mario Master", description:"Completa il gioco al 100%.", rarity:"gold" },
+,
+
+{ title:"Re del Regno dei Funghi", description:"Ottieni tutti gli altri trofei.", rarity:"platinum" }
+
+  ]
+},
 ];
