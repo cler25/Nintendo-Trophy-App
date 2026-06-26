@@ -3685,8 +3685,7 @@ trophies: [
 { title:"100% Umbra", description:"Completa ogni attività del gioco.", rarity:"gold" },
 { title:"Regina di Noatun", description:"Dimostra la tua maestria assoluta.", rarity:"gold" },
 
-{ title:"La Strega Definitiva", description:"Sblocca tutti i trofei.", rarity:"platinum" 
-}
+{ title:"La Strega Definitiva", description:"Sblocca tutti i trofei.", rarity:"platinum"}
 
 
 ]
